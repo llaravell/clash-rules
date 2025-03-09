@@ -14,3 +14,4 @@ payload:
   - DOMAIN-KEYWORD,grazie.ai,
   - DOMAIN-KEYWORD,grazie.aws.intellij.net,
   - DOMAIN-KEYWORD,jetbrains.ai,
+  - DOMAIN-SUFFIX,codeium.com,
