@@ -562,7 +562,6 @@ payload:
   - DOMAIN-SUFFIX,cloudfunctions.net,
   - DOMAIN-SUFFIX,webcatalog.io,
   - DOMAIN-SUFFIX,maxcdn.com,
-  - DOMAIN-SUFFIX,visualstudio.com,
   - DOMAIN-SUFFIX,notion.so,
   - DOMAIN-SUFFIX,lens.google.com,
   - DOMAIN-SUFFIX,dart.dev,
