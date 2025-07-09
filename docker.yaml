@@ -1,0 +1,17 @@
+payload:
+  #========================================
+  # 2. Docker Services
+  #========================================
+  # - Rules based on the process name
+  - PROCESS-NAME,docker
+  - PROCESS-NAME,docker.exe
+  - PROCESS-NAME,dockerd
+  - PROCESS-NAME,com.docker.backend
+
+  # - Domains (Suffix and Keywords)
+  - DOMAIN-KEYWORD,docker
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,docker.cloud
+  - DOMAIN-SUFFIX,dckr.io
+  - DOMAIN-SUFFIX,cloudflare.docker.com
