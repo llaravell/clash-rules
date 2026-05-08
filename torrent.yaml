@@ -18,6 +18,8 @@ payload:
   - DOMAIN-SUFFIX,thepiratebay.org
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,yts.mx
+  - DOMAIN-SUFFIX,iptorrents.com
+  - DOMAIN-SUFFIX,bitporn.eu
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,torrentgalaxy.to
   - DOMAIN-SUFFIX,eztvx.to
