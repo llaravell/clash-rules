@@ -1,0 +1,89 @@
+payload:
+
+  # ========================================
+  # Crypto Keywords (Generic)
+  # ========================================
+  - DOMAIN-KEYWORD,crypto
+  - DOMAIN-KEYWORD,cryptocurrency
+  - DOMAIN-KEYWORD,blockchain
+  - DOMAIN-KEYWORD,web3
+  - DOMAIN-KEYWORD,defi
+  - DOMAIN-KEYWORD,metamask
+  - DOMAIN-KEYWORD,btc
+  - DOMAIN-KEYWORD,eth
+
+  # ========================================
+  # Crypto Wallets (Hot Wallets / Extensions / Apps)
+  # ========================================
+  - DOMAIN-SUFFIX,metamask.io
+  - DOMAIN-SUFFIX,trustwallet.com
+  - DOMAIN-SUFFIX,exodus.com
+  - DOMAIN-SUFFIX,phantom.app
+  - DOMAIN-SUFFIX,keplr.app
+  - DOMAIN-SUFFIX,coinbase.com
+  - DOMAIN-SUFFIX,coinbasewallet.com
+  - DOMAIN-SUFFIX,ledger.com
+  - DOMAIN-SUFFIX,trezor.io
+  - DOMAIN-SUFFIX,rabby.io
+  - DOMAIN-SUFFIX,atomicwallet.io
+  - DOMAIN-SUFFIX,guarda.com
+  - DOMAIN-SUFFIX,myetherwallet.com
+
+  # ========================================
+  # Crypto Payment Gateways / Processors
+  # ========================================
+  - DOMAIN-SUFFIX,coinpayments.net
+  - DOMAIN-SUFFIX,coinbase.com
+  - DOMAIN-SUFFIX,commerce.coinbase.com
+  - DOMAIN-SUFFIX,bitpay.com
+  - DOMAIN-SUFFIX,btcpayserver.org
+  - DOMAIN-SUFFIX,nowpayments.io
+  - DOMAIN-SUFFIX,coingate.com
+  - DOMAIN-SUFFIX,cryptomus.com
+  - DOMAIN-SUFFIX,plisio.net
+  - DOMAIN-SUFFIX,oxapay.com
+  - DOMAIN-SUFFIX,changelly.com
+  - DOMAIN-SUFFIX,banxa.com
+  - DOMAIN-SUFFIX,moonpay.com
+  - DOMAIN-SUFFIX,onramper.com
+  - DOMAIN-SUFFIX,simplex.com
+
+  # ========================================
+  # Exchange API / Payment Related Endpoints
+  # ========================================
+  - DOMAIN-KEYWORD,api.coinbase
+  - DOMAIN-KEYWORD,api.binance
+  - DOMAIN-KEYWORD,api.kraken
+  - DOMAIN-KEYWORD,api.kucoin
+  - DOMAIN-KEYWORD,api.bybit
+  - DOMAIN-KEYWORD,api.okx
+  - DOMAIN-KEYWORD,api.huobi
+  - DOMAIN-KEYWORD,api.bitget
+
+  # ========================================
+  # Web3 / RPC / Blockchain Nodes
+  # ========================================
+  - DOMAIN-KEYWORD,infura
+  - DOMAIN-KEYWORD,alchemy
+  - DOMAIN-KEYWORD,quicknode
+  - DOMAIN-KEYWORD,ankr
+  - DOMAIN-KEYWORD,cloudflare-eth
+  - DOMAIN-KEYWORD,mainnet.infura.io
+  - DOMAIN-KEYWORD,eth.rpc
+
+  # ========================================
+  # Payment / Merchant Crypto Plugins
+  # ========================================
+  - DOMAIN-KEYWORD,crypto-pay
+
+  # ========================================
+  # Process Rules (Optional)
+  # ========================================
+  - PROCESS-NAME,metamask
+  - PROCESS-NAME,coinbase
+  - PROCESS-NAME,trustwallet
+  - PROCESS-NAME,exodus
+  - PROCESS-NAME,ledger-live
+  - PROCESS-NAME,phantom
+  - PROCESS-NAME,NOW Wallet
+  - PROCESS-NAME,NOW Wallet.exe
