@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,thepiratebay.org
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,yts.mx
+  - DOMAIN-SUFFIX,lookpic.com
   - DOMAIN-SUFFIX,torrindex.net
   - DOMAIN-SUFFIX,cloudstatic.net
   - DOMAIN-SUFFIX,iptorrents.com
